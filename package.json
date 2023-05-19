@@ -1,0 +1,28 @@
+{
+  "name": "progettiwebmolinari",
+  "version": "1.0.0",
+  "description": "Website collector of students' web projects at ITT Molinari High School, in Milano, Italy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiannobili/progettiwebmolinari.git"
+  },
+  "keywords": [
+    "web",
+    "projects",
+    "molinari",
+    "scholar",
+    "education",
+    "html",
+    "javascript"
+  ],
+  "author": "Cristian Nobili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiannobili/progettiwebmolinari/issues"
+  },
+  "homepage": "https://github.com/cristiannobili/progettiwebmolinari#readme"
+}
